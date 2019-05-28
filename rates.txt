@@ -1,0 +1,12 @@
+0.4
+0.3
+0.3
+8
+Medicine	100 97
+Engineering	97 92
+Science	92 85
+Arts	85 79
+Politics	79 71
+Psychology	71 65
+kolleyeh	65 55
+kman_kolleyeh	55 40
